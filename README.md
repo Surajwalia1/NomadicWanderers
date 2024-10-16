@@ -9,9 +9,6 @@ A simple and elegant responsive navigation bar and search form with smooth anima
 - 🎯 **Scroll-Based Effects**: Header styling changes based on the user's scroll position for a more interactive experience.
 - ⚡ **Fast & Lightweight**: No external libraries, only clean and minimal vanilla JavaScript.
 
-## 🖥️ Demo
-
-![Navbar and Search Form Demo](path_to_demo_image_or_gif)
 
 ## 🛠️ Technologies Used
 
